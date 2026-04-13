@@ -32,6 +32,6 @@
 <p align="left">
   <a href="https://www.facebook.com/akarawitx/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
   <a href="https://www.instagram.com/ninedyyy/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="www.linkedin.com/in/akarawit-juntarang"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/akarawit-juntarang/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://github.com/akarawitx"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 </p>
