@@ -3,9 +3,9 @@
 - 👀 I'm interested in Frontend Development and Coding.
 - 🚀 Goals HTML CSS JavaScript React Vue Figma C Go Java Python MySQL
 - 🏫 University: Silpakorn University
-- 📫 Contact: akarawit.juntarang@gmail.com
+- 📫 Contact: juntarang.akarawit@gmail.com
 
-[![Mail Badge](https://img.shields.io/badge/-akarawit.juntarang@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akarawit.juntarang@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-akarawit.juntarang@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:juntarang.akarawit@gmail.com)
 
 ---
 
