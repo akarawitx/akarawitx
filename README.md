@@ -5,7 +5,7 @@
 - 🏫 University: Silpakorn University
 - 📫 Contact: juntarang.akarawit@gmail.com
 
-[![Mail Badge](https://img.shields.io/badge/-akarawit.juntarang@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:juntarang.akarawit@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-juntarang.akarawit@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:juntarang.akarawit@gmail.com)
 
 ---
 
