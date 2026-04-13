@@ -1,8 +1,7 @@
 ## Hi, I'm Akarawit Juntarang <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - <img src="https://img.icons8.com/ios/20/000000/visible--v1.png"/> I'm interested in Frontend Development and Coding.
-- <img src="https://img.icons8.com/ios/20/000000/rocket--v1.png"/> Goals
-  - HTML · CSS · JavaScript · React · Vue · Figma · C · Go · Java · Python · MySQL
+- <img src="https://img.icons8.com/ios/20/000000/rocket--v1.png"/> Goals HTML · CSS · JavaScript · React · Vue · Figma · C · Go · Java · Python · MySQL
 - <img src="https://img.icons8.com/ios/20/000000/school--v1.png"/> University: Silpakorn University
 - <img src="https://img.icons8.com/ios/20/000000/new-post--v1.png"/> Contact: akarawit.juntarang@gmail.com
 
