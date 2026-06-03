@@ -2,6 +2,7 @@
 
 - 👀 I'm interested in Frontend Development and Coding.
 - 🚀 Goals HTML CSS JavaScript React Vue Figma C Go Java Python MySQL
+- 🌱 Currently Learning: Angular & Python
 - 🏫 University: Silpakorn University
 - 📫 Contact: juntarang.akarawit@gmail.com
 
